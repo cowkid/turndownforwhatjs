@@ -105,7 +105,7 @@
 			removeCurStyles()
 		}
 	}
-	//<iframe width="560" height="315" src="//60" height="315" src="<iframe width="560" height="315" src="http://www.youtube.com/embed/U9t-slLl30E?autoplay=1" frameborder="0" allowfullscreen></iframe>
+	//<iframe width="560" height="315" src="//60" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/U9t-slLl30E?autoplay=1" frameborder="0" allowfullscreen></iframe>
 	
 	function setupAnimations() {
 		var numKeyFrames = 10
